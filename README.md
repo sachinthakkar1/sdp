@@ -7,7 +7,7 @@ Below is the step by step procedure.
     1) install dependencies
         -> pip install -r requirements.txt
     2) run 'python main.py' command
-    3) enter keyword on which you want to get ssentiment
+    3) enter keyword on which you want to get sentiment
     4) output will be stored in 'demo_clean_test.csv' file
     5) also 3 png files (barchart,piechart,wordcloud) will be created.
     
