@@ -1,7 +1,7 @@
-## for this project we have used LSTM (Long Short-Term Memory) network which is type of RNN (recurrent neural network).
+## for this project we have used LSTM (Long Short-Term Memory) neural network which is type of RNN (recurrent neural network).
 Below is the step by step procedure.
 
-## we have saved the traind model into 'lastmmodel.sav' so no need to train again if you want to see and test the project.
+## we have saved the traind model into 'lstmmodel.sav' so no need to train again if you want to see and test the project.
 
 ### to test the system
     1) install dependencies
